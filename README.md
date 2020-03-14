@@ -12,11 +12,13 @@ Backend is written using nodejs, express and mongodb.
 2. run command `npm run server` in root folder to start server
 3. Server will start on port `3000`.
 
-# Fronted 
+## Fronted 
 
 Fronted is written in Angular 9
 
-** Note **: Change `apiURL` in `environment.ts` file 
+**Note:**: Change `apiURL` in `environment.ts` file if required.
+
+### Start fronted Server
 
 1. run `npm install` command in root folder
 2. run `npm start` command in root folder to start fronted application
